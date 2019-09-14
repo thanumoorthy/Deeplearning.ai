@@ -29,7 +29,7 @@ What are you doing at each time step tt?
 
 7. Suppose you are training a LSTM. You have a 10000 word vocabulary, and are using an LSTM with 100-dimensional activations a^{<t>}. What is the dimension of Γu at each time step?
 
-	10000
+	100
 
 8. Here’re the update equations for the GRU.
 
